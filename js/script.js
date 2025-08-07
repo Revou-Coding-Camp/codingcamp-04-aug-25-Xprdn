@@ -1,3 +1,5 @@
+console.log("JavaScript terhubung!");
+
 document.addEventListener('DOMContentLoaded', () => {
     const taskInput = document.getElementById('taskInput');
     const dateInput = document.getElementById('dateInput');
